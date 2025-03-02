@@ -1,0 +1,1564 @@
+{
+  "languages": [
+    {
+      "languageId": "BG",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Официални резултати"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Разбивка по партии"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Исторически данни"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Окончателни резултати"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Състав"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Проекция"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Разбивка по групи"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Предварителни резултати"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Съотношение мъже-жени в ЕС"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Резултати по партии"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Избирателна активност"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Учредително заседание"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Приблизителни оценки"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Съотношение между мъжете и жените"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Парламент в края на мандата"
+        }
+      ]
+    },
+    {
+      "languageId": "ES",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Resultados oficiales"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Escaños por partidos políticos"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Datos históricos"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Resultados definitivos"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Hemiciclo"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Proyección"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Escaños por grupos"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Resultados provisionales"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Equilibrio de género en la UE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Partidos políticos con resultados"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Participación electoral"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Sesión constitutiva"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Estimaciones"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Equilibrio de género"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlamento saliente"
+        }
+      ]
+    },
+    {
+      "languageId": "CS",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Oficiální výsledky"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Rozdělení stran"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historické údaje"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Konečné výsledky"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Polokruh"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Předpoklad"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Rozdělení skupin"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Prozatímní výsledky"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Zastoupení mužů a žen EU"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Výsledky stran"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Volební účast"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Ustavující zasedání"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Odhady"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Zastoupení mužů a žen"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Končící parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "DA",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Officielle resultater"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Fordeling partier"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historiske data"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Endelige resultater"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Plenumoversigt"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Fremskrivning"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Fordeling grupper"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Foreløbige resultater"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Kønsfordeling EU"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Resultater partier"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Valgdeltagelse"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Konstituerende møde"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Skøn"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Kønsfordeling"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Afgående Parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "DE",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Amtliche Ergebnisse"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Aufschlüsselung nach Parteien"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historische Daten"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Endergebnisse"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Plenarsaal"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Hochrechnung"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Aufschlüsselung nach Fraktionen"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Vorläufige Ergebnisse"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Geschlechterverhältnis unionsweit"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Ergebnisse der Parteien"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Wahlbeteiligung"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Konstituierende Sitzung"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Schätzungen"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Geschlechterverhältnis"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Scheidendes Europäisches Parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "ET",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Ametlikud tulemused"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Jaotus erakondade kaupa"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Ajaloolised andmed"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Lõplikud tulemused"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Istungisaal"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Prognoos"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Jaotus fraktsioonide kaupa"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Esialgsed tulemused"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Sooline jaotus ELis"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Erakondade tulemused"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Valimisaktiivsus"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Avaistung"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Prognoosid"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Sooline jaotus"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlamendi lahkuv koosseis"
+        }
+      ]
+    },
+    {
+      "languageId": "EL",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Επίσημα αποτελέσματα"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Κατάταξη κομμάτων"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Ιστορικά στοιχεία"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Τελικά αποτελέσματα"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Ημικύκλιο"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Πρόβλεψη"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Κατάταξη ομάδων"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Προσωρινά αποτελέσματα"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Ισόρροπη εκπροσώπηση των φύλων στην ΕΕ"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Αποτελέσματα κομμάτων"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Συμμετοχή"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Σύνοδος συγκρότησης του Κοινοβουλίου σε σώμα"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Εκτιμήσεις"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Ισόρροπη εκπροσώπηση των φύλων"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Απερχόμενο Κοινοβούλιο"
+        }
+      ]
+    },
+    {
+      "languageId": "EN",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Official results"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Breakdown parties"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historical data"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Final results"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Hemicycle"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Projection"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Breakdown groups"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Provisional results"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "EU Gender Balance"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Results parties"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Turnout"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Constitutive session"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Estimates"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Gender Balance"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Outgoing Parliament"
+        }
+      ]
+    },
+    {
+      "languageId": "FR",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Résultats officiels"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Répartition des partis"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Données historiques"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Résultats définitifs"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Hémicycle"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Projection"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Répartition des groupes"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Résultats provisoires"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Répartition hommes-femmes au sein de l’Union européenne"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Résultats par parti"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Participation"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Session constitutive"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Estimations"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Répartition hommes-femmes"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlement sortant"
+        }
+      ]
+    },
+    {
+      "languageId": "GA",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Torthaí oifigiúla"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Miondealú ar pháirtithe"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Sonraí stairiúla"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Torthaí críochnaitheacha"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Seomra tionóil"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Réamh-mheastachán"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Miondealú ar ghrúpaí"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Torthaí sealadacha"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Cothromaíocht inscne AE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Torthaí de réir páirtithe"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Ráta vótála"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Seisiún reachtach"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Meastacháin"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Cothromaíocht inscne"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlaimint atá ag dul as oifig"
+        }
+      ]
+    },
+    {
+      "languageId": "HR",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Službeni rezultati"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Raspodjela stranaka"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Povijesni podaci"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Konačni rezultati"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Vijećnica"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Projekcija"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Raspodjela klubova"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Privremeni rezultati"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Ravnoteža među spolovima u EU-u"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Stranke s rezultatima"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Odaziv birača"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Konstituirajuća sjednica"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Procjene"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Ravnoteža među spolovima"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlament na odlasku"
+        }
+      ]
+    },
+    {
+      "languageId": "IT",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Risultati ufficiali"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Suddivisione partiti"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Dati storici"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Risultati finali"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Emiciclo"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Proiezione"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Suddivisione gruppi"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Risultati provvisori"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Equilibrio di genere UE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Risultati partiti"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Affluenza"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Sessione costitutiva"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Stime"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Equilibrio di genere"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlamento uscente"
+        }
+      ]
+    },
+    {
+      "languageId": "LV",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Oficiālie rezultāti"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Partiju sadalījums"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Vēsturiskie dati"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Galīgie rezultāti"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Sēžu zāle"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Prognoze"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Grupu sadalījums"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Provizoriskie rezultāti"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Dzimumu līdzsvars ES"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Partiju rezultāti"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Vēlētāju aktivitāte"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Konstitutīvā sesija"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Aplēses"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Dzimumu līdzsvars"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Aizejošais Parlaments"
+        }
+      ]
+    },
+    {
+      "languageId": "LT",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Oficialūs rezultatai"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Skirstyti partijas"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Ankstesnių rinkimų duomenys"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Galutiniai rezultatai"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Plenarinių posėdžių salė"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Projekcija"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Skirstyti grupes"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Preliminarūs rezultatai"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Lyčių pusiausvyra ES"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Partijų rezultatai"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Dalyvavimas rinkimuose"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Steigiamoji sesija"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Apytikriai rezultatai"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Lyčių pusiausvyra"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Kadenciją baigiantis Parlamentas"
+        }
+      ]
+    },
+    {
+      "languageId": "HU",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Hivatalos eredmények"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Lebontás pártokra"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Korábbi adatok"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Végeredmények"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Ülésterem"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Előrejelzés"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Lebontás csoportokra"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Előzetes eredmények"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "A nemek aránya az EU-ban"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Pártok eredményei"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Részvételi arány"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Alakuló ülés"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Becsült adatok"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "A nemek aránya"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Távozó parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "MT",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Riżultati uffiċjali"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Tqassim tal-partiti"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Data storika"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Riżultati finali"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Emiċiklu"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Projezzjoni"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Tqassim tal-gruppi"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Riżultati proviżorji"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Bilanċ Bejn is-Sessi fl-UE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Riżultati partiti"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Parteċipazzjoni elettorali"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Sessjoni kostituttiva"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Stimi"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Bilanċ Bejn is-Sessi"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlament uxxenti"
+        }
+      ]
+    },
+    {
+      "languageId": "NL",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Officiële resultaten"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Splitsing partijen"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historische gegevens"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Definitieve resultaten"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Grote vergaderzaal"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Voorspelling"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Splitsing fracties"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Voorlopige resultaten"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Genderverdeling EU"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Resultaten partijen"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Opkomst"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Constituerende vergadering"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Schattingen"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Genderverdeling"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Uittredend Parlement"
+        }
+      ]
+    },
+    {
+      "languageId": "PL",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Oficjalne wyniki"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Podział partii"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Dane historyczne"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Wyniki końcowe"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Sala posiedzeń plenarnych"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Prognoza"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Podział grup"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Wstępne wyniki"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Rozkład płci w UE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Wyniki — partie"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Frekwencja"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Posiedzenie inauguracyjne"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Szacunki"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Rozkład płci"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Ustępujący Parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "PT",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Resultados oficiais"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Repartição dos partidos"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Dados históricos"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Resultados finais"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Hemiciclo"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Projeção"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Repartição dos grupos"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Resultados provisórios"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Equilíbrio de género na UE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Resultados dos partidos"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Participação eleitoral"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Sessão constitutiva"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Estimativas"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Equilíbrio de género"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlamento cessante"
+        }
+      ]
+    },
+    {
+      "languageId": "RO",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Rezultate oficiale"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Împărțire partide"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Date istorice"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Rezultate finale"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Hemiciclu"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Estimări"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Împărțire grupuri"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Rezultate provizorii"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Echilibrul de gen în UE"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Rezultate partide"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Rată de participare"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Sesiune constitutivă"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Estimări"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Echilibrul de gen"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Actualul Parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "SK",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Oficiálne výsledky"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Rozdelenie strán"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historické údaje"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Konečné výsledky"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Rokovacia sála"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Prognóza"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Rozdelenie podľa skupín"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Predbežné výsledky"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Rodová rovnováha v EÚ"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Výsledky podľa strán"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Volebná účasť"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Ustanovujúca schôdza"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Odhady"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Rodová rovnováha"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Parlament, ktorého volebné obdobie sa končí"
+        }
+      ]
+    },
+    {
+      "languageId": "SL",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Uradni rezultati"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Razčlenitev strank"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Zgodovinski podatki"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Končni rezultati"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Plenarna dvorana"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Napoved"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Razčlenitev skupin"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Začasni rezultati"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Zastopanost spolov za EU"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Rezultati strank"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Volilna udeležba"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Otvoritveno zasedanje"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Ocene"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Zastopanost spolov"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Odhajajoči parlament"
+        }
+      ]
+    },
+    {
+      "languageId": "FI",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Viralliset tulokset"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Jaottelu puolueet"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Tulokset aiemmissa vaaleissa"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Lopulliset tulokset"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Istuntosali"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Ennuste"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Jaottelu ryhmät"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Alustavat tulokset"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Sukupuolijakauma EU"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Tulokset puolueet"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Äänestysprosentti"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Järjestäytymisistunto"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Arviot"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Sukupuolijakauma"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Väistyvä parlamentti"
+        }
+      ]
+    },
+    {
+      "languageId": "SV",
+      "translations": [
+        {
+          "labelId": "OFFICIAL",
+          "label": "Officiella resultat"
+        },
+        {
+          "labelId": "BREAKDOWN_BY_PARTY_TITLE",
+          "label": "Uppdelning partier"
+        },
+        {
+          "labelId": "HISTORICAL",
+          "label": "Historiska data"
+        },
+        {
+          "labelId": "FINAL",
+          "label": "Slutliga resultat"
+        },
+        {
+          "labelId": "EU_HEMICYCLE_TITLE",
+          "label": "Plenisalen"
+        },
+        {
+          "labelId": "PROJECTION",
+          "label": "Prognos"
+        },
+        {
+          "labelId": "SEATS_BY_GROUP_TITLE",
+          "label": "Uppdelning grupper"
+        },
+        {
+          "labelId": "PROVISIONAL",
+          "label": "Preliminära resultat"
+        },
+        {
+          "labelId": "EU_GENDER_BALANCE_TITLE",
+          "label": "Könsfördelning i EU"
+        },
+        {
+          "labelId": "RESULTS_BY_PARTY_TITLE",
+          "label": "Resultat partier"
+        },
+        {
+          "labelId": "EU_TURNOUT_TITLE",
+          "label": "Valdeltagande"
+        },
+        {
+          "labelId": "CONSTITUTIVE",
+          "label": "Konstituerande sammanträde"
+        },
+        {
+          "labelId": "ESTIMATE",
+          "label": "Beräkningar"
+        },
+        {
+          "labelId": "GENDER_BALANCE_TITLE",
+          "label": "Könsfördelning"
+        },
+        {
+          "labelId": "OUTGOING",
+          "label": "Avgående parlament"
+        }
+      ]
+    }
+  ]
+}
